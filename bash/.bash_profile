@@ -5,3 +5,8 @@ fi
 
 # aliases
 alias ll='ls -lat'
+alias subl='open -a "sublime text"'
+~                                                                                                                                                                                                           
+~                                                                                                                                                                                                           
+~                                                                                                                                                                                                           
+~                                              
